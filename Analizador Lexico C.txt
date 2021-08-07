@@ -12,3 +12,17 @@ char *pr [MAX_RES] = {
     "False","int","float", "String", "boolean",
     "{","}","[","]","(",")", "=","==","!=","<",">","<=",">=","++","--","=+","=-",":",".",";",",",
     "'","+","-","*","/","","<<",">>" };
+
+using namespace std;
+//char tokenSimbolos[MAX];
+
+int main(){
+unsigned char entrada[MAX];
+   char *p = entrada;
+   printf("Ingrese la primera linea del lenguaje: ");
+   fflush(stdin);
+   gets(entrada);
+   fflush(stdin);
+   clrscr();
+
+}
