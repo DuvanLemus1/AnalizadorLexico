@@ -8,5 +8,7 @@
 #define MAX_RES 15
 
 char *pr [MAX_RES] = {
-    "inicio()","if","else","elif","while","do","while", "for", "switch", "case", "default",
-    "break", "return", "Escribir", "Leer", "True", "False","int","float", "String", "boolean" };
+    "inicio()","if","else","elif","while","do","while", "for", "switch", "case", "default", "break", "return", "Escribir", "Leer", "True", 
+    "False","int","float", "String", "boolean",
+    "{","}","[","]","(",")", "=","==","!=","<",">","<=",">=","++","--","=+","=-",":",".",";",",",
+    "'","+","-","*","/","","<<",">>" };
