@@ -4,5 +4,5 @@
 #include <windows.h>
 #include <string>
 #include <iostream>
-#define MAX 650
-#define MAX_RES 23
+#define MAX 500
+#define MAX_RES 15
